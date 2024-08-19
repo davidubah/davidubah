@@ -6,6 +6,8 @@
 My passion for technology is fueled by curiosity and a relentless pursuit of knowledge.<br>
 Leveraging my expertise in WordPress, I am adept at building robust and scalable websites that deliver exceptional user experiences. My background empowers me to approach problem-solving with a unique perspective, resulting in creative and effective outcomes.</p>
 <p align="center">INTJ | Architect | Strengthfinder Qualities: Focus, Deliberative, Learning, and Belief. <br> Gamer, Reader, Snooker, Traveling, Hiking, Real foodie not junks.</p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=daviduo&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views Counter" width="18%" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
