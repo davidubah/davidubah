@@ -1,5 +1,4 @@
-![GitHub Banner](https://github.com/user-attachments/assets/7b0beb0e-6b53-48d5-97ef-b654032cfaed)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/46de42a1-b6f7-4b30-976e-94cbb8ba0c46">
 
 <h1 align="center"><img src="https://media.tenor.com/uJcQPQkws5sAAAAi/hello-hi.gif" alt="hello!" width="7%" />, I'm David!</h1>
 <h3 align="center">A Passionate and Dedicated Web Developer.</h3>
