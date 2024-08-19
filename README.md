@@ -36,7 +36,7 @@ Leveraging my expertise in WordPress, I am adept at building robust and scalable
 <be>
 <br>
 <br>
-<h3 align="center">Thanks for stopping by!</h3>
+<h3 align="center">I appreciate your visit!</h3>
 <br>
 <div align="center">
 <img src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/12aed88b4e9b63bf-34/s500x750/263fd5dcfc31e7ebd0eaced44e76082030b3c004.gif" alt="coding" width="30%" />
