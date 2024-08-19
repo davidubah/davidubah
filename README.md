@@ -1,4 +1,5 @@
-<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/46de42a1-b6f7-4b30-976e-94cbb8ba0c46">
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/a4b9ccb2-ddb9-4c36-b82a-04b77e80256a">
+
 
 <h1 align="center"><img src="https://media.tenor.com/uJcQPQkws5sAAAAi/hello-hi.gif" alt="hello!" width="7%" />, I'm David!</h1>
 <h3 align="center">A Passionate and Dedicated Web Developer.</h3>
